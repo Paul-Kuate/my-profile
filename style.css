@@ -1,7 +1,12 @@
+
+body{
+font-family: Roboto;
+}
+
 .banner {
     background-image: url("images/banner.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
 }
 
 .box1 {
