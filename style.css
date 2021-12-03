@@ -1,0 +1,27 @@
+.banner {
+    background-image: url("images/banner.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.box1 {
+    border-width: 2px;
+    border-style: outset;
+    border-color: black;
+    width: 40%;
+    height: 40%;
+    position: relative;
+    top: 130px;
+    left: 40px;
+}
+
+.box2 {
+    border-width: 2px;
+    border-style: outset;
+    border-color: black;
+    width: 40%;
+    height: 40%;
+    position: relative;
+    top: 0px;
+    left: 600px;
+}
